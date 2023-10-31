@@ -35,3 +35,7 @@ If you created image files for a rom (like `Story01.bin`), and decide to modify 
 
 **Ideal workflow**
 You could `-dump-` all the images from a rom file, then modify them either manually or with another program, then you can `-inject-` them back into a copy of the same rom file. Right now I only inject the red-eye version of the eye images, but ideally one could use a modified PiEye to generate realistic eye sequence.
+
+**Here is side by side the original blue eye and modified red eye:**
+
+![image](https://github.com/dglaude/ruxalyzer-for-teddy-ruxpin/assets/19435932/f729c832-4aff-48c1-9ba7-f2a4345ccca6)
