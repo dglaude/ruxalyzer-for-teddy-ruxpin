@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-print("ruxlyzer_over.py")
+print("ruxalyzer-inject-filename.py")
 
 import struct
 import PIL.Image
